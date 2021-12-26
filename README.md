@@ -1,1 +1,1 @@
-# html-foundations
+# HTML-foundations
